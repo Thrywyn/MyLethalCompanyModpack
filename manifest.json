@@ -1,7 +1,7 @@
 {
     "name": "Frydenlund_But_Better",
     "version_number": "3.4.0",
-    "website_url": "https://github.com/thunderstore-io",
+    "website_url": "https://github.com/Thrywyn/MyLethalCompanyModpack",
     "description": "Now with tons of new mods, custom configs, over 300 custom songs added, loads of tv channels and a lot of suits.",
     "dependencies": [
         "Nephren-BoomBoxPartyHits-1.1.2",
